@@ -32,7 +32,7 @@ let tieneCarroSegundaPersona = true;
 let colorCarroSegundaPersona;
 
 console.log(nombrePrimeraPersona);
-console.log(nombreSegundaPersona);
+
 
 ```
 
